@@ -20,7 +20,13 @@ This project was built using:
 ## 📁 Project Structure
 
 ```
-Time-counter/ ├── index.html # Main HTML file containing the app structure. ├── css/ │ └── main.css # Stylesheet for layout, styling, and transitions. ├── js/ │ └── script.js # JavaScript file implementing timer logic and UI interactions. └── README.md # Project documentation.
+Time-counter/
+├── index.html 
+├── css/
+│ └── main.css 
+├── js/
+│ └── script.js
+└── README.md # Project documentation.
 ```
 
 ## 🚀 How to Run the Project
